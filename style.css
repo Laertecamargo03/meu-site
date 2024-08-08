@@ -1,6 +1,7 @@
 .cabecalho {
     background-color: #6e8dcc;
-display: flex;}
+display: flex;
+justify-content: space-around;}
 
 .corpo { background-color:burlywood;}
 .titulo {text-align: center;}
